@@ -1,2 +1,5 @@
 # YoutubeClone-JDT-FrontEnd-
-Clone of Youtube created using React JS
+
+Youtube Clone made with React JS and Material UI 5
+
+Using experience to teach workshops on front end development.
